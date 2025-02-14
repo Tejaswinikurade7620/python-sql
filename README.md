@@ -2,9 +2,9 @@
 ## Sales Insights and Customer Analytics
 
 # Objective:
-To analyze sales data and customer behavior using SQL and Python.
-To derive actionable insights from the data that can help improve sales strategies and customer retention.
-To implement various queries that cover basic, intermediate, and advanced analytics to understand sales trends, customer demographics, and product performance.
+-To analyze sales data and customer behavior using SQL and Python.
+-To derive actionable insights from the data that can help improve sales strategies and customer retention.
+-To implement various queries that cover basic, intermediate, and advanced analytics to understand sales trends, customer demographics, and product performance.
 
 # Conclusion:
 The project will provide a comprehensive overview of sales performance across different categories and time periods.
